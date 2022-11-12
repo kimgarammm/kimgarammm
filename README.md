@@ -14,7 +14,6 @@ My skills :books: <br>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-black.svg?logo=React&logoColor=#61DAFB"></a>
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-black.svg?logo=Vue.js&logoColor=#4FC08D"></a>
 <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a><br>
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a> <br>
 <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white"></a>
